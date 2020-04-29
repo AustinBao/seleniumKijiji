@@ -14,33 +14,19 @@ driver.maximize_window()
 element = driver.find_element_by_id("SearchKeyword")
 element.click()
 
-# Using readline()
-file1 = open('keywords.txt', 'r')
-count = 0
+Askuser = input("What do you need to buy today?")
+element.send_keys(Askuser)
+element.send_keys(Keys.ENTER)
 
-while True:
-    count += 1
 
-    # Get next line from file
-    line = file1.readline()
+wait = WebDriverWait(driver, 10)
+wait = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "title")))
+driver.find_element_by_class_name("title").click()
 
-    # if line is empty
-    # end of file is reached
-    if not line:
-        break
-    print("Line{}: {}".format(count, line.strip()))
 
-    # askuser = input("What do you need to buy today?")
-    element.send_keys(line)
-    element.send_keys(Keys.ENTER)
+driver.find_element_by_class_name("title-2323565163")
+print(driver.title)
 
-    wait = WebDriverWait(driver, 10)
-    wait = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "title")))
-    driver.find_element_by_class_name("title").click()
-
-    driver.find_element_by_class_name("title-2323565163")
-    print(driver.title)
-
-file1.close()
+driver.close()
 
 
