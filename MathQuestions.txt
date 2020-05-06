@@ -2,11 +2,3 @@
 8 * 3
 4 / 2
 8 - 7
-
-
-str() is a built-in function in Python (no need to import)
-that can be called with a parameter or without a parameter.
-With a parameter: it returns a string representation of whatever value was passed in.
-
- (In easier words, it converts whatever you pass in to a string.)
-

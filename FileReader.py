@@ -1,10 +1,23 @@
 import math
 import re
 
-f=open("MathQuestions.txt","r")
-line1 = f.readlines()[0]
-f.close()
+lista = [1, 2, 3, 2, 1, 9, 109]
+listb = []
 
+while lista > [0]:
+    return_value = lista.pop()
+    listb.append(return_value)
+
+print(listb)
+
+stringa = "abcba" [::-1]
+print(stringa)
+
+
+# f=open("MathQuestions.txt","r")
+# line1 = f.readlines()[0]
+# f.close()
+#
 # lista = []
 # for i in line1:
 #     lista.append(i)
@@ -15,39 +28,17 @@ f.close()
 #
 # if operator == "+":
 #     result = int1 + int2
-#     print(result)
+#     print(int1, operator,  int2, "=", result)
 
-
-x = 0
-
-for i in line1:
-    print(i)
-    if i != ' ' and i != '\n' and i != '+':
-
-        x += int(i)
-
-
-print(x)
-
-
-
-# line1 = f.readline()
-# print(line1)
+# x = 0
 #
-# line2 = f.readline()
-# print(line2)
+# for i in line1:
+#     print(i)
+#     if i != ' ' and i != '\n' and i != '+':
 #
-# line3 = f.readline()
-# print(line3)
+#         x += int(i)
 #
-# line4 = f.readline()
-# print(line4)
 #
-# f.close();
+# print(x)
 
 
-
-# filepath = 'MathQuestions.txt'
-# with open(filepath) as fp:
-#    for cnt, line in enumerate(fp):
-#         print("Line {}: {}".format(cnt, line))
