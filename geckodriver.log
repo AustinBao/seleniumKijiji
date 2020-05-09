@@ -3980,3 +3980,174 @@ JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityEr
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1588880202821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\austi\\AppData\\Local\\Temp\\rust_mozprofileYdzsSe"
+1588880204077	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588880204988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588880204989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588880204989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588880204989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588880209874	Marionette	INFO	Listening on port 51456
+1588880210306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+1588880773614	Marionette	INFO	Stopped listening on port 51456
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588880793668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\austi\\AppData\\Local\\Temp\\rust_mozprofiledUwZ8A"
+1588880794436	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588880795208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588880795208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588880795208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588880795208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588880799643	Marionette	INFO	Listening on port 51729
+1588880800008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+1588880829426	Marionette	INFO	Stopped listening on port 51729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588880843093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\austi\\AppData\\Local\\Temp\\rust_mozprofileO52tcG"
+1588880843865	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588880844653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588880844653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588880844653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588880844653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588880848723	Marionette	INFO	Listening on port 51902
+1588880848939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1588881066756	Marionette	INFO	Stopped listening on port 51902
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ermission: networkStatus
+1588880998100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588880998101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588880998101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588880998101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588881002285	Marionette	INFO	Listening on port 52086
+1588881002320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.f3d70f66.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 579"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:579:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 579, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 579: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6d9ea1c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6c5a5a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6dbb3d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6dbb3d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6dbb3d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6dbb3d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6dbb3d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6dbb3d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6dbb3d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6dbb3d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6d42b0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6d42b0000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6d3561000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6d3561000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6d3561000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6d309b000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6d3568000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 18612, MediaDecoderStateMachine #1] WARNING: Decoder=1b6d3568000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1588881920963	Marionette	INFO	Stopped listening on port 52086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588969794181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\austi\\AppData\\Local\\Temp\\rust_mozprofileJJuw5T"
+1588969794714	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588969795140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588969795140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588969795140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588969795140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588969797160	Marionette	INFO	Listening on port 49927
+1588969797379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.95ba29f2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.95ba29f2.js, line 1: unreachable code after return statement
+1588969803028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.95ba29f2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.95ba29f2.js, line 1: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1588970823551	Marionette	INFO	Stopped listening on port 49927
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ermission: networkStatus
+1588969848393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588969848393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588969848393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588969848393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588969850410	Marionette	INFO	Listening on port 50144
+1588969850528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.95ba29f2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.95ba29f2.js, line 1: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.95ba29f2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.95ba29f2.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.95ba29f2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.95ba29f2.js, line 1: unreachable code after return statement
+1588969871639	Marionette	INFO	Stopped listening on port 50144
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

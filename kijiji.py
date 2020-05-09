@@ -3,9 +3,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import time
 
-driver = webdriver.Firefox(executable_path=r'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.7\geckodriver.exe')
+driver = webdriver.Firefox(executable_path=r'C:\Users\austi\seleniumKijiji\venv\Lib\site-packages\geckodriver.exe')
 
 driver.get("https://www.kijiji.ca/")
 

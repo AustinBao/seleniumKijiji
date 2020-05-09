@@ -2,7 +2,7 @@
 #
 # print("Thats so cool " + Askuser + " is my favourite colour too!")
 
-Askuser = int(input("Write down a number"))
+Askuser = int(input("Whats your age?"))
 
 if int(Askuser) > 10 :
     print("You can ride this rollercoaster")
