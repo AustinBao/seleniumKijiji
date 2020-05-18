@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76dffdea-b218-4b0e-b32f-5f11a9d35e00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CandyStore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Surgery.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CandyStore.py" beforeDir="false" afterPath="$PROJECT_DIR$/CandyStore.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <recent name="C:\Users\austi\PycharmProjects\Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.CandyStore">
+  <component name="RunManager" selected="Python.Surgery">
     <configuration name="CandyStore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inputtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Surgery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inputtest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Surgery.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,20 +190,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Python" />
       <item itemvalue="Python.CandyStore" />
       <item itemvalue="Python.FileReader" />
-      <item itemvalue="Python.Python" />
-      <item itemvalue="Python.inputtest" />
       <item itemvalue="Python.kijiji" />
       <item itemvalue="Python.multibrowser" />
+      <item itemvalue="Python.Surgery" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Surgery" />
         <item itemvalue="Python.CandyStore" />
         <item itemvalue="Python.kijiji" />
         <item itemvalue="Python.multibrowser" />
         <item itemvalue="Python.FileReader" />
-        <item itemvalue="Python.inputtest" />
       </list>
     </recent_temporary>
   </component>
@@ -247,42 +248,42 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="400" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1588966239766" />
-    <state width="1686" height="315" key="GridCell.Tab.0.bottom" timestamp="1589410998352">
+    <state width="1686" height="195" key="GridCell.Tab.0.bottom" timestamp="1589775461229">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
     <state width="1515" height="196" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588966875725" />
-    <state width="1686" height="315" key="GridCell.Tab.0.bottom/0.0.1707.960@0.0.1707.960" timestamp="1589410998352" />
-    <state width="1686" height="315" key="GridCell.Tab.0.center" timestamp="1589410998352">
+    <state width="1686" height="195" key="GridCell.Tab.0.bottom/0.0.1707.960@0.0.1707.960" timestamp="1589775461229" />
+    <state width="1686" height="195" key="GridCell.Tab.0.center" timestamp="1589775461228">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
     <state width="1515" height="196" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588966875725" />
-    <state width="1686" height="315" key="GridCell.Tab.0.center/0.0.1707.960@0.0.1707.960" timestamp="1589410998352" />
-    <state width="1686" height="315" key="GridCell.Tab.0.left" timestamp="1589410998352">
+    <state width="1686" height="195" key="GridCell.Tab.0.center/0.0.1707.960@0.0.1707.960" timestamp="1589775461228" />
+    <state width="1686" height="195" key="GridCell.Tab.0.left" timestamp="1589775461228">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
     <state width="1515" height="196" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588966875725" />
-    <state width="1686" height="315" key="GridCell.Tab.0.left/0.0.1707.960@0.0.1707.960" timestamp="1589410998352" />
-    <state width="1686" height="315" key="GridCell.Tab.0.right" timestamp="1589410998352">
+    <state width="1686" height="195" key="GridCell.Tab.0.left/0.0.1707.960@0.0.1707.960" timestamp="1589775461228" />
+    <state width="1686" height="195" key="GridCell.Tab.0.right" timestamp="1589775461229">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
     <state width="1515" height="196" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588966875725" />
-    <state width="1686" height="315" key="GridCell.Tab.0.right/0.0.1707.960@0.0.1707.960" timestamp="1589410998352" />
-    <state width="1686" height="315" key="GridCell.Tab.1.bottom" timestamp="1589410998352">
+    <state width="1686" height="195" key="GridCell.Tab.0.right/0.0.1707.960@0.0.1707.960" timestamp="1589775461229" />
+    <state width="1686" height="315" key="GridCell.Tab.1.bottom" timestamp="1589648947292">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
-    <state width="1686" height="315" key="GridCell.Tab.1.bottom/0.0.1707.960@0.0.1707.960" timestamp="1589410998352" />
-    <state width="1686" height="315" key="GridCell.Tab.1.center" timestamp="1589410998352">
+    <state width="1686" height="315" key="GridCell.Tab.1.bottom/0.0.1707.960@0.0.1707.960" timestamp="1589648947292" />
+    <state width="1686" height="315" key="GridCell.Tab.1.center" timestamp="1589648947292">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
-    <state width="1686" height="315" key="GridCell.Tab.1.center/0.0.1707.960@0.0.1707.960" timestamp="1589410998352" />
-    <state width="1686" height="315" key="GridCell.Tab.1.left" timestamp="1589410998352">
+    <state width="1686" height="315" key="GridCell.Tab.1.center/0.0.1707.960@0.0.1707.960" timestamp="1589648947292" />
+    <state width="1686" height="315" key="GridCell.Tab.1.left" timestamp="1589648947292">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
-    <state width="1686" height="315" key="GridCell.Tab.1.left/0.0.1707.960@0.0.1707.960" timestamp="1589410998352" />
-    <state width="1686" height="315" key="GridCell.Tab.1.right" timestamp="1589410998352">
+    <state width="1686" height="315" key="GridCell.Tab.1.left/0.0.1707.960@0.0.1707.960" timestamp="1589648947292" />
+    <state width="1686" height="315" key="GridCell.Tab.1.right" timestamp="1589648947292">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
-    <state width="1686" height="315" key="GridCell.Tab.1.right/0.0.1707.960@0.0.1707.960" timestamp="1589410998352" />
+    <state width="1686" height="315" key="GridCell.Tab.1.right/0.0.1707.960@0.0.1707.960" timestamp="1589648947292" />
     <state x="279" y="78" key="SettingsEditor" timestamp="1588966820213">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -291,10 +292,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="568" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1588966159128" />
-    <state x="516" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1589401572645">
+    <state x="516" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1589775625054">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
-    <state x="516" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1707.960@0.0.1707.960" timestamp="1589401572645" />
+    <state x="516" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1707.960@0.0.1707.960" timestamp="1589775625054" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
