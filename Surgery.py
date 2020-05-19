@@ -17,8 +17,7 @@ class Surgeon:
 
             print("everything went smoothly")
             print(recipeint.first + ' ' + recipeint.last + " you now have " + str(new_recipient) + ' ' + recipeint.type)
-            print(organ_donor.first + ' ' + organ_donor.last + " you now have " + str(
-                new_organdonor) + ' ' + organ_donor.type)
+            print(organ_donor.first + ' ' + organ_donor.last + " you now have " + str(new_organdonor) + ' ' + organ_donor.type)
 
 
 class Patient:

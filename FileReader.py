@@ -1,17 +1,17 @@
 import math
 import re
 
-# lista = [1, 2, 3, 2, 1, 9, 109]
-# listb = []
-#
-# while lista > [0]:
-#     return_value = lista.pop()
-#     listb.append(return_value)
-#
-# print(listb)
-#
-# stringa = "abcba" [::-1]
-# print(stringa)
+lista = [1, 2, 3, 2, 1, 9, 109]
+listb = []
+
+while lista > [0]:
+    return_value = lista.pop()
+    listb.append(return_value)
+
+print(listb)
+
+stringa = "abcba" [::-1]
+print(stringa)
 
 
 f=open("MathQuestions.txt","r")
@@ -30,15 +30,15 @@ if operator == "+":
     result = int1 + int2
     print(int1, operator,  int2, "=", result)
 
-# x = 0
-#
-# for i in line1:
-#     print(i)
-#     if i != ' ' and i != '\n' and i != '+':
-#
-#         x += int(i)
-#
-#
-# print(x)
+x = 0
+
+for i in line1:
+    print(i)
+    if i != ' ' and i != '\n' and i != '+':
+
+        x += int(i)
+
+
+print(x)
 
 
