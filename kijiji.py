@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-driver = webdriver.Firefox(executable_path=r'C:\Users\austi\seleniumKijiji\venv\Lib\site-packages\geckodriver.exe')
+driver = webdriver.Firefox(executable_path=r'C:\Users\Austi\Python\geckodriver')
 
 driver.get("https://www.kijiji.ca/")
 

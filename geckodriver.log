@@ -4151,3 +4151,27 @@ JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1590008834827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Austi\\AppData\\Local\\Temp\\rust_mozprofile5npHvs"
+1590008835275	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590008835780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590008835781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590008835781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590008835781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590008837754	Marionette	INFO	Listening on port 49206
+1590008837964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.62696be1.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.62696be1.js, line 1: unreachable code after return statement
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.62696be1.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.62696be1.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.62696be1.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.62696be1.js, line 1: unreachable code after return statement
+1590008853774	Marionette	INFO	Stopped listening on port 49206
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
